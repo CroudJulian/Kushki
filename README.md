@@ -8,3 +8,21 @@ Desde mi visual y la lectura de la documentación la tokenizacion reemplaza los 
  o Qué entiendes por el concepto de Webhook?.
 Es un mecanismo de comunicación automatizado entre webs, es decir, lo veo como un servicio  que notifica de forma instantánea a otra cuando ocurre un evento especifico. Para mayor claridad permiten que x servidor envie automáticamente datos en tiempo real a una url especifica todo esto definido cuando ocurre X evento.
 
+
+
+ 
+ Postman 
+ Prueba tu integración
+Existen tarjetas de prueba que puedes utilizar en modo prueba para asegurarte que tu integración está lista. Úsalas con cualquier CVV, 1234 como código OTP y fecha de expiración futura.
+
+Transacción aprobada con generación de modal 3DS:
+4456528080389860
+4456529267234200
+4456529165328302
+4456524869770255
+4456523340069956
+Transacción aprobada sin generación de modal 3DS:
+4456540000000063
+4456543371713314
+4456541982068615
+4456541249811088
